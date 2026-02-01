@@ -3,7 +3,7 @@ fun main() {
     val trout = "trout"
     var haddock = "haddock"
     var snapper = "snapper"
-    println("Me gusta el $haddok y el $trout pero el $snapper no.")
+    println("I like the $haddok and the $trout but i dont like $snapper.")
 
     // ejercicio 2
     when(fishName.length) {
