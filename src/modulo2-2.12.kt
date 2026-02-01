@@ -18,4 +18,5 @@ fun main() {
     }
 
     println(divisibleBySeven)
+
 }
